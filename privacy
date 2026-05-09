@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy - Murva</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            line-height: 1.6;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            color: #333;
+            background: #f9fafb;
+        }
+        .container {
+            background: white;
+            padding: 40px;
+            border-radius: 10px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+        h1 { 
+            color: #7c3aed;
+            border-bottom: 3px solid #7c3aed;
+            padding-bottom: 10px;
+        }
+        h2 { 
+            color: #7c3aed;
+            margin-top: 30px;
+        }
+        h3 {
+            color: #555;
+        }
+        a { 
+            color: #7c3aed;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        ul {
+            margin: 10px 0;
+        }
+        li {
+            margin: 8px 0;
+        }
+        .footer {
+            margin-top: 40px;
+            padding-top: 20px;
+            border-top: 1px solid #e5e7eb;
+            color: #6b7280;
+            font-size: 0.9em;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Privacy Policy</h1>
+        <p><strong>Effective Date: January 7, 2025</strong></p>
+
+        <h2>1. Introduction</h2>
+        <p>Murva ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your personal information when you use the Murva mobile application.</p>
+
+        <h2>2. Age Requirements</h2>
+        <ul>
+            <li>Users must be at least 13 years old to use Murva</li>
+            <li>Users aged 13-17 require verifiable parental or guardian consent</li>
+            <li>We comply with the Children's Online Privacy Protection Act (COPPA)</li>
+            <li>We comply with the General Data Protection Regulation (GDPR)</li>
+        </ul>
+
+        <h2>3. Information We Collect</h2>
+        
+        <h3>3.1 Personal Information You Provide:</h3>
+        <ul>
+            <li><strong>Email address:</strong> For account creation and authentication</li>
+            <li><strong>Date of birth:</strong> For age verification purposes</li>
+            <li><strong>User-generated content:</strong> Journal entries, mood ratings, and chat messages with our AI assistant</li>
+        </ul>
+
+        <h3>3.2 Automatically Collected Information:</h3>
+        <ul>
+            <li><strong>Device information:</strong> Device type, operating system version</li>
+            <li><strong>Usage data:</strong> Features used, time spent in app, interaction patterns</li>
+            <li><strong>Performance data:</strong> App crashes, errors, and diagnostic information</li>
+        </ul>
+
+        <h2>4. How We Use Your Information</h2>
+        <p>We use your information to:</p>
+        <ul>
+            <li>Provide AI-powered mental health support through Claude API (Anthropic)</li>
+            <li>Securely store your data in Firebase (Google Cloud Platform)</li>
+            <li>Track mood patterns and wellness progress over time</li>
+            <li>Send optional notifications for reminders, encouragement, and progress updates</li>
+            <li>Improve app functionality, user experience, and feature development</li>
+            <li>Ensure compliance with age restrictions and parental consent requirements</li>
+            <li>Provide customer support and respond to your inquiries</li>
+        </ul>
+
+        <h2>5. Third-Party Services</h2>
+        
+        <h3>5.1 Firebase (Google Cloud):</h3>
+        <ul>
+            <li>User authentication services</li>
+            <li>Cloud database storage (Firestore)</li>
+            <li>Usage analytics and crash reporting</li>
+            <li><a href="https://firebase.google.com/support/privacy" target="_blank">Firebase Privacy Policy</a></li>
+        </ul>
+
+        <h3>5.2 Claude API (Anthropic):</h3>
+        <ul>
+            <li>AI-powered conversational support and mental health guidance</li>
+            <li>Your messages are transmitted to Anthropic's servers for AI processing</li>
+            <li>Anthropic processes data in accordance with their privacy commitments</li>
+            <li><a href="https://www.anthropic.com/privacy" target="_blank">Anthropic Privacy Policy</a></li>
+        </ul>
+
+        <h3>5.3 Railway (Backend Hosting):</h3>
+        <ul>
+            <li>Secure backend server infrastructure</li>
+            <li>Acts as intermediary between app and third-party AI services</li>
+            <li>Does not permanently store user conversation data</li>
+        </ul>
+
+        <h2>6. Data Storage & Security</h2>
+        <ul>
+            <li><strong>Encryption in transit:</strong> All data transmitted using HTTPS/TLS encryption</li>
+            <li><strong>Encryption at rest:</strong> Data stored in Firebase is encrypted</li>
+            <li><strong>Server locations:</strong> United States and European Union</li>
+            <li><strong>Access controls:</strong> Strict internal access limitations to user data</li>
+            <li><strong>No data selling:</strong> We do NOT sell your data to third parties</li>
+            <li><strong>No advertising:</strong> We do NOT use your data for targeted advertising</li>
+        </ul>
+
+        <h2>7. Your Rights Under GDPR & CCPA</h2>
+        <p>You have the following rights regarding your personal data:</p>
+        <ul>
+            <li><strong>Right to Access:</strong> Export all your data using the "Export My Data" feature</li>
+            <li><strong>Right to Delete:</strong> Permanently delete your account and data via "Delete Account" in settings</li>
+            <li><strong>Right to Rectify:</strong> Edit and correct your information directly in the app</li>
+            <li><strong>Right to Data Portability:</strong> Download your data in JSON format</li>
+            <li><strong>Right to Withdraw Consent:</strong> Delete your account at any time</li>
+            <li><strong>Right to Object:</strong> Contact us to object to specific data processing</li>
+        </ul>
+
+        <h2>8. Data Retention</h2>
+        <ul>
+            <li><strong>Active accounts:</strong> Data retained for as long as your account is active</li>
+            <li><strong>Deleted accounts:</strong> All data permanently deleted within 30 days of account deletion</li>
+            <li><strong>Backup systems:</strong> Data removed from backup systems within 90 days</li>
+            <li><strong>Legal obligations:</strong> Some data may be retained longer if required by law</li>
+        </ul>
+
+        <h2>9. Children's Privacy (COPPA Compliance)</h2>
+        <p>We take children's privacy seriously:</p>
+        <ul>
+            <li>We do not knowingly collect information from children under 13 without parental consent</li>
+            <li>Age verification is required before account creation</li>
+            <li>Users aged 13-17 must confirm parental consent before using the app</li>
+            <li>If we discover unauthorized collection from a child under 13, we delete the data immediately</li>
+            <li>Parents can contact us to review, modify, or delete their child's information</li>
+        </ul>
+
+        <h2>10. International Data Transfers</h2>
+        <p>Your information may be transferred to and processed in countries other than your country of residence, including the United States. We ensure appropriate safeguards are in place to protect your data in accordance with this Privacy Policy and applicable data protection laws.</p>
+
+        <h2>11. Cookies and Tracking</h2>
+        <p>Murva uses minimal tracking technologies:</p>
+        <ul>
+            <li>Essential cookies for authentication and app functionality</li>
+            <li>Analytics to understand app usage and improve features</li>
+            <li>No third-party advertising or tracking cookies</li>
+        </ul>
+
+        <h2>12. Your California Privacy Rights (CCPA)</h2>
+        <p>California residents have additional rights:</p>
+        <ul>
+            <li>Right to know what personal information is collected</li>
+            <li>Right to know if personal information is sold or disclosed</li>
+            <li>Right to opt-out of the sale of personal information (we don't sell data)</li>
+            <li>Right to deletion of personal information</li>
+            <li>Right to non-discrimination for exercising CCPA rights</li>
+        </ul>
+
+        <h2>13. Changes to This Privacy Policy</h2>
+        <p>We may update this Privacy Policy from time to time. When we make material changes, we will notify you by:</p>
+        <ul>
+            <li>Email notification to your registered email address</li>
+            <li>In-app notification upon next app launch</li>
+            <li>Updating the "Effective Date" at the top of this policy</li>
+        </ul>
+        <p>Your continued use of Murva after changes constitutes acceptance of the updated policy.</p>
+
+        <h2>14. Contact Us</h2>
+        <p>If you have questions, concerns, or requests regarding this Privacy Policy or your personal data, please contact us:</p>
+        <ul>
+            <li><strong>Email:</strong> <a href="mailto:info@murva.ai">info@murva.ai</a></li>
+            <li><strong>Support:</strong> <a href="mailto:michael@murva.ai">michael@murva.ai</a></li>
+            <li><strong>Website:</strong> <a href="https://murva.ai">https://murva.ai</a></li>
+        </ul>
+
+        <div class="footer">
+            <p><strong>By using Murva, you acknowledge that you have read and understood this Privacy Policy and agree to its terms.</strong></p>
+            <p>&copy; 2025 Murva. All rights reserved.</p>
+        </div>
+    </div>
+</body>
+</html>
